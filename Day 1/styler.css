@@ -1,0 +1,12 @@
+/* #first{
+    background-color: blue;
+}
+#second{
+    background-color: yellow;
+}
+.third{
+    background-color: green;
+} */
+ h1 , .third{
+    background-color: aqua;
+ }
