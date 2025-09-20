@@ -1,8 +1,25 @@
 .container{
-    
+    height: 100px;
+    width: 100px;
 }
 
 .box{
     height: 100px;
     width: 100px;
+}
+
+.first{
+    background-color: orange;
+}
+
+.second{
+    background-color: green;
+}
+
+.third{
+    background-color: red;
+}
+
+.fourth{
+    background-color: blue;
 }
